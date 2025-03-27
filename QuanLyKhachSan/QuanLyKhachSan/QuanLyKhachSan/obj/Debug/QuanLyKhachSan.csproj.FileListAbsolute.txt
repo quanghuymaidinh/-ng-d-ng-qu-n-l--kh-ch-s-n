@@ -1,0 +1,133 @@
+C:\Users\ADMIN\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\ADMIN\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\ADMIN\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\ADMIN\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DatPhong.resources
+C:\Users\ADMIN\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Main.resources
+C:\Users\ADMIN\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThuePhong.resources
+C:\Users\ADMIN\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\ADMIN\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DatPhong.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Main.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThuePhong.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Login.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Doimatkhau.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyPhong.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThanhToan.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongTinKhachHang.resources
+C:\Users\ADMIN\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Doimatkhau.resources
+C:\Users\ADMIN\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Login.resources
+C:\Users\ADMIN\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyPhong.resources
+C:\Users\ADMIN\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThanhToan.resources
+C:\Users\ADMIN\source\repos\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongTinKhachHang.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan (1)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\nguye\source\repos\QuanLyKhachSan (1)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\nguye\source\repos\QuanLyKhachSan (1)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\nguye\source\repos\QuanLyKhachSan (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\QuanLyKhachSan (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DatPhong.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Doimatkhau.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Login.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Main.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyPhong.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThanhToan.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThuePhong.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongTinKhachHang.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\QuanLyKhachSan (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\QuanLyKhachSan (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\nguye\source\repos\QuanLyKhachSan (1)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DatPhong.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Doimatkhau.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Login.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Main.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyPhong.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThanhToan.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThuePhong.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongTinKhachHang.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\stdole.dll
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKh.7BBD220C.Up2Date
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.InHoaDon.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DanhSachHoaDon.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DichVu.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.HoaDon.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DoanhThu.resources
+C:\Users\nguye\source\repos\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.NhanVien.resources
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DanhSachHoaDon.resources
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DatPhong.resources
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DichVu.resources
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DoanhThu.resources
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Doimatkhau.resources
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.HoaDon.resources
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.InHoaDon.resources
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Login.resources
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Main.resources
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.NhanVien.resources
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.QuanLyPhong.resources
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThanhToan.resources
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThuePhong.resources
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThongTinKhachHang.resources
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\stdole.dll
+C:\Users\hotto\Documents\Zalo Received Files\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKh.7BBD220C.Up2Date
